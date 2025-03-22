@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 !SESSION 2024-12-07 19:40:44.300 -----------------------------------------------
 eclipse.buildId=4.34.0.20241128-0756
 java.version=21.0.5
@@ -609,6 +610,9 @@ java.io.FileNotFoundException: /home/manonmani/eclipse-workspace/.metadata/.plug
 	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:508)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 !SESSION 2025-03-21 21:34:45.252 -----------------------------------------------
+=======
+!SESSION 2025-03-22 19:40:21.902 -----------------------------------------------
+>>>>>>> master
 eclipse.buildId=4.35.0.20250306-0811
 java.version=21.0.6
 java.vendor=Eclipse Adoptium
@@ -616,6 +620,7 @@ BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
 Framework arguments:  -product org.eclipse.epp.package.java.product
 Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
 
+<<<<<<< HEAD
 !ENTRY ch.qos.logback.classic 1 0 2025-03-21 21:34:59.377
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
 
@@ -1380,3 +1385,10 @@ Java Model Exception: Error in Java Model (code 977): /GFG/src/array/LargestSubA
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
 !SUBENTRY 1 org.eclipse.jdt.core 4 977 2025-03-21 21:49:53.940
 !MESSAGE /GFG/src/array/LargestSubArray.java already exists in target
+=======
+!ENTRY ch.qos.logback.classic 1 0 2025-03-22 19:40:35.032
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-22 19:40:41.316
+!MESSAGE Logback config file: /home/manonmani/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+>>>>>>> master

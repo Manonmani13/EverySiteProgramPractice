@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+<<<<<<< HEAD
     <libraryInfo home="/snap/eclipse/111/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.5.v20241023-1957" version="21.0.5">
+=======
+    <libraryInfo home="/snap/eclipse/120/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.6.v20250130-0529" version="21.0.6">
+>>>>>>> master
         <bootpath>
             <entry path="null"/>
         </bootpath>
@@ -12,6 +16,10 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="/usr/lib/jvm/java-17-openjdk-amd64" version="17.0.13"/>
+<<<<<<< HEAD
     <libraryInfo home="/snap/eclipse/111/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.5.v20241023-1957/jre" version="21.0.5"/>
+=======
+    <libraryInfo home="/snap/eclipse/120/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.6.v20250130-0529/jre" version="21.0.6"/>
+>>>>>>> master
     <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.25"/>
 </libraryInfos>

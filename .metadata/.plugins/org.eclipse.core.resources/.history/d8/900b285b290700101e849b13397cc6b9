@@ -1,0 +1,13 @@
+package array;
+
+public class ReverseWord {
+	public static void main(String[] args) {
+		String s=" i like this program very much ";
+		String reverse[]=s.split(" ");
+		for(String n:reverse) {
+			System.out.println(n);
+		}
+	
+	}
+
+}
