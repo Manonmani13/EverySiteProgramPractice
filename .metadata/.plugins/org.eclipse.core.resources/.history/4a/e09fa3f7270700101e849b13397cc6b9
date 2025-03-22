@@ -1,0 +1,11 @@
+package array;
+
+public class ReverseWord {
+	public static void main(String[] args) {
+		String s=" i like this program very much ";
+		for(int i=s.length();i>=0;i--) {
+			System.out.println(s.charAt(i));
+		}
+	}
+
+}
