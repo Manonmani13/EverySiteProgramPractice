@@ -17,6 +17,14 @@ public class Swapping2Numbers1st {
         a=a*b;
         b=a/b;
         a=a/b;
+
+        //logic 4
+        a=a^b;
+        b=a^b;
+        a=a^b;
+
+        //logic 5
+        b=a+b-(a=b);
     }
     
 }
