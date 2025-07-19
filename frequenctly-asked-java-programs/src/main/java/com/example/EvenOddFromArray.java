@@ -14,7 +14,9 @@ public class EvenOddFromArray {
 
         //logic 2
 
-        for(in+n);
+        for(int n:a){
+            if(n%2==0){
+                System.out.println("Event ");
             }
         }
     }
