@@ -35,7 +35,7 @@ public class MySecurityConfig {
         return NoOpPasswordEncoder.getInstance(); // Do NOT use in production!
     }
 
-    // ✅ SecurityFilterChain Bean - HTTP Security Configuration example
+    // ✅ SecurityFilterChain Bean - HTTP Security Configuration examplegi
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         http
